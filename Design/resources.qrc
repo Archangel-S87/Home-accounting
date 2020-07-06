@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="actions">
+    <file>svg/folder-open-solid.svg</file>
+    <file>svg/folder-plus-solid.svg</file>
+    <file>svg/upload-solid.svg</file>
+    <file>svg/download-solid.svg</file>
+  </qresource>
+  <qresource prefix="main">
+    <file>logo.ico</file>
+  </qresource>
+</RCC>
